@@ -18,14 +18,14 @@ Asena.addCommand({pattern: 'imash', fromMe: false, desc: Lang.WP}, (async (messa
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*IMASH NIDUSHA FERNANDO*
-owner number wa.me/94771323434
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*DIWAN KAWISHKA DASANAYAKA*
+owner number wa.me/94786705379
 
 FB-https://www.facebook.com/nidusha.fernando
 
-*Name-Imash Nidusha Fernando*
+*Name-DIWAN KAWISHKA DASANAYAKa*
 *Age-15*
-*Contract number - wa.me/94771323434*
+*Contract number - wa.me/94786705379*
 *Sri Lankan New Whatsapp Bot😎*
 *ප්‍රශ්නයක් ආවොත් මැසේජ් එකක් දාහම් හරිද😎*
 `}) 
